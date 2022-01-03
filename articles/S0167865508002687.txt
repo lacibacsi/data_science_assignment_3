@@ -1,0 +1,11 @@
+C. Ferri, J. Hernández-Orallo, R. Modroiu,
+An experimental comparison of performance measures for classification,
+Pattern Recognition Letters,
+Volume 30, Issue 1,
+2009,
+Pages 27-38,
+ISSN 0167-8655,
+https://doi.org/10.1016/j.patrec.2008.08.010.
+(https://www.sciencedirect.com/science/article/pii/S0167865508002687)
+Abstract: Performance metrics in classification are fundamental in assessing the quality of learning methods and learned models. However, many different measures have been defined in the literature with the aim of making better choices in general or for a specific application area. Choices made by one metric are claimed to be different from choices made by other metrics. In this work, we analyse experimentally the behaviour of 18 different performance metrics in several scenarios, identifying clusters and relationships between measures. We also perform a sensitivity analysis for all of them in terms of several traits: class threshold choice, separability/ranking quality, calibration performance and sensitivity to changes in prior class distribution. From the definitions and experiments, we make a comprehensive analysis of the relationships between metrics, and a taxonomy and arrangement of them according to the previous traits. This can be useful for choosing the most adequate measure (or set of measures) for a specific application. Additionally, the study also highlights some niches in which new measures might be defined and also shows that some supposedly innovative measures make the same choices (or almost) as existing ones. Finally, this work can also be used as a reference for comparing experimental results in pattern recognition and machine learning literature, when using different measures.
+Keywords: Classification; Performance measures; Ranking; Calibration
